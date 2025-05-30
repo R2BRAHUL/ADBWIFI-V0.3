@@ -43,7 +43,8 @@ cd adbwifi
 chmod +x install.sh
 ./install.sh
 
-💻 Kali Linux
+
+###💻 Kali Linux
 
 sudo apt update && sudo apt install git -y
 git clone https://github.com/R2BRAHUL/adbwifi.git
@@ -54,7 +55,7 @@ chmod +x install.sh
 
 ---
 
-📋 Requirements
+###📋 Requirements
 
 ADB-compatible Android device
 
@@ -77,7 +78,7 @@ lolcat
 
 ---
 
-📦 Usage
+###📦 Usage
 
 After installation, just type:
 
@@ -99,7 +100,7 @@ Exit safely
 
 ---
 
-🤝 Contribution
+###🤝 Contribution
 
 Have an idea or want to improve the framework?
 You're welcome to fork, star ⭐, and create pull requests.
@@ -107,7 +108,7 @@ You're welcome to fork, star ⭐, and create pull requests.
 
 ---
 
-📝 License
+###📝 License
 
 This project is under the MIT License.
 Feel free to modify, share, and use with proper credits.
@@ -115,11 +116,15 @@ Feel free to modify, share, and use with proper credits.
 
 ---
 
-✉️ Connect With Me
+###✉️ Connect With Me
 
 GitHub: R2BRAHUL
 
-Banner: Cyber7F
+Team: Cyber7F
+
+Email: r2brahul43@gmail.com
+
+YT:https://www.youtube.com/@E24KHOLIL
 
 Future projects are coming soon... Stay tuned!
 
